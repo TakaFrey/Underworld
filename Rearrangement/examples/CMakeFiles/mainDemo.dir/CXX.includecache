@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/taka_frey/Orsay/S1/Projets/Rearrangement/examples/main.cpp
+Game/Game.h
+/home/taka_frey/Orsay/S1/Projets/Rearrangement/examples/Game/Game.h
+
+src/Game/Game.h
+iostream
+-
+ctime
+-
+cstdlib
+-
+SFML/Window.hpp
+-
+SFML/System.hpp
+-
+SFML/Graphics.hpp
+-
+SFML/Audio.hpp
+-
+SFML/Network.hpp
+-
+

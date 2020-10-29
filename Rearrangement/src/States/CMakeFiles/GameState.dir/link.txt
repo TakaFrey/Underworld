@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g  -shared -Wl,-soname,libGameState.so -o libGameState.so CMakeFiles/GameState.dir/GameState.cpp.o 
