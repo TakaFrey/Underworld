@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC -g  -shared -Wl,-soname,libGame.so -o libGame.so CMakeFiles/Game.dir/Game.cpp.o 
