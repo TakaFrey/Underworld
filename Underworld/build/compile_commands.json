@@ -1,0 +1,13 @@
+[
+{
+  "directory": "/home/taka_frey/Orsay/S1/Projets/Underworld/build",
+  "command": "/bin/g++-9  -DFight_EXPORTS  -g -fPIC   -o src/Fight/CMakeFiles/Fight.dir/Game.cpp.o -c /home/taka_frey/Orsay/S1/Projets/Underworld/src/Fight/Game.cpp",
+  "file": "/home/taka_frey/Orsay/S1/Projets/Underworld/src/Fight/Game.cpp"
+},
+
+{
+  "directory": "/home/taka_frey/Orsay/S1/Projets/Underworld/build",
+  "command": "/bin/g++-9   -I../src  -g   -o examples/CMakeFiles/Launch.dir/main.cpp.o -c /home/taka_frey/Orsay/S1/Projets/Underworld/examples/main.cpp",
+  "file": "/home/taka_frey/Orsay/S1/Projets/Underworld/examples/main.cpp"
+}
+]

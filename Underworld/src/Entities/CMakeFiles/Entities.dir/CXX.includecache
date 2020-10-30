@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/taka_frey/Orsay/S1/Projets/Underworld/src/Entities/Entity.cpp
+Entity.h
+/home/taka_frey/Orsay/S1/Projets/Underworld/src/Entities/Entity.h
+
+/home/taka_frey/Orsay/S1/Projets/Underworld/src/Entities/Entity.h
+iostream
+-
+fstream
+-
+ctime
+-
+cstdlib
+-
+stack
+-
+map
+-
+SFML/Window.hpp
+-
+SFML/Graphics.hpp
+-
+SFML/System.hpp
+-
+SFML/Audio.hpp
+-
+SFML/Network.hpp
+-
+

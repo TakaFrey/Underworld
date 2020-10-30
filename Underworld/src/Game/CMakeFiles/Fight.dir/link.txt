@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g  -shared -Wl,-soname,libFight.so -o libFight.so CMakeFiles/Fight.dir/Game.cpp.o 

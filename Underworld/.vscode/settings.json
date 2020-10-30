@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "ctime": "cpp",
+        "iostream": "cpp",
+        "cstdlib": "cpp",
+        "fstream": "cpp",
+        "new": "cpp",
+        "functional": "cpp"
+    },
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools"
+}

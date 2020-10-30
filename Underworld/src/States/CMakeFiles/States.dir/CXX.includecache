@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/taka_frey/Orsay/S1/Projets/Underworld/src/Entities/Entity.h
+iostream
+-
+fstream
+-
+ctime
+-
+cstdlib
+-
+stack
+-
+map
+-
+SFML/Window.hpp
+-
+SFML/Graphics.hpp
+-
+SFML/System.hpp
+-
+SFML/Audio.hpp
+-
+SFML/Network.hpp
+-
+
+/home/taka_frey/Orsay/S1/Projets/Underworld/src/States/GameState.cpp
+GameState.h
+/home/taka_frey/Orsay/S1/Projets/Underworld/src/States/GameState.h
+
+/home/taka_frey/Orsay/S1/Projets/Underworld/src/States/GameState.h
+State.h
+/home/taka_frey/Orsay/S1/Projets/Underworld/src/States/State.h
+
+/home/taka_frey/Orsay/S1/Projets/Underworld/src/States/State.h
+../Entities/Entity.h
+/home/taka_frey/Orsay/S1/Projets/Underworld/src/Entities/Entity.h
+
